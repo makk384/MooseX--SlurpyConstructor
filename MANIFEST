@@ -1,0 +1,15 @@
+Build.PL
+Changes
+lib/MooseX/SlurpyConstructor.pm
+lib/MooseX/SlurpyConstructor/Role/Attribute.pm
+lib/MooseX/SlurpyConstructor/Role/Object.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/00_pod.t
+t/00_pod_coverage.t
+t/01_usage.t
+t/02_normal_usage.t
+t/03_attribute_options.t
+t/04_bad_usage.t
